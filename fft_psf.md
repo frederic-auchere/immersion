@@ -12,7 +12,7 @@ $E(x^k) \propto \sum_{j=0}^{N-1}M(x_j')\exp\left(\frac{-2i\pi x_j'x_k}{\lambda z
 
 Posing
 
-$x_j'=j\Delta x'$ and $x^k=k\Delta x$
+$x_j'=j\Delta x'$ and $x_k=k\Delta x$
 
 we have
 
