@@ -8,7 +8,7 @@ $M(x')=E_i(x')A(x')\exp\left(\frac{i\pi x'^2}{\lambda z'}\right)$
 
 Discretization:
 
-$E(x^k) \propto \sum_{j=0}^{N-1}M(x_j')\exp\left(\frac{-2i\pi x_j'x_k}{\lambda z'}\right)$
+$E(x_k) \propto \sum_{j=0}^{N-1}M(x_j')\exp\left(\frac{-2i\pi x_j'x_k}{\lambda z'}\right)$
 
 Posing
 
