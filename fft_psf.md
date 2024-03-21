@@ -31,7 +31,7 @@ whence
 $\Delta x=\frac{\lambda z'}{N\Delta x'}$
 
 ### At infinity: Fraunhofer diffraction
-$M(x^j')\xrightarrow[z' \to \infty]{} E_i(x^j')A(x^j')$
+$M(x^{j'})\xrightarrow[z' \to \infty]{} E_i(x^{j'})A(x^{j'})$
 
 The diffraction is computed by the FFT at discrete angles $\alpha^k$ given by
 $\alpha^k=k\frac{\Delta x}{z'}=k\frac{\lambda}{N\Delta x'}=k\Delta\alpha$
