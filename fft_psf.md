@@ -16,7 +16,7 @@ $x_j'=j\Delta x'$ and $x_k=k\Delta x$
 
 we have
 
-$E(x_k) \propto \sum_{j=0}^{N-1}M(x_j')\exp\left(\frac{-2i\pi j\Delta x_k'\Delta x}{\lambda z'}\right)$
+$E(x_k) \propto \sum_{j=0}^{N-1}M(x_j')\exp\left(\frac{-2i\pi j\Delta x'k\Delta x}{\lambda z'}\right)$
 
 The FFT computes
 
